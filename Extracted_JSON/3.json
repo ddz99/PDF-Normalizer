@@ -1,0 +1,10 @@
+{
+    "123456": {
+        "ManufacturerA": 55,
+        "ManufacturerB": 80
+    },
+    "789012": {
+        "ManufacturerC": 150,
+        "ManufacturerD": 250
+    }
+}
