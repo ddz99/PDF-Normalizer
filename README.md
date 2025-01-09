@@ -5,6 +5,8 @@
 This repository contains a Python project that includes three main functions to be executed in flow.
 
 
+![alt text](img/GovWise.png "optional title")
+
 ---
 
 ## Prerequisites
